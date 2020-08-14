@@ -89,3 +89,4 @@
 ### Association
 
 - has_many :items
+フォーク済
