@@ -89,4 +89,4 @@
 ### Association
 
 - has_many :items
-フォーク済
+フォーク　test
